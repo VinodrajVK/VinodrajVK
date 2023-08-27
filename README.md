@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently Working on GPA Calculator App<br>I'm Currently learning Flutter, C++, Web Development<br>
+<br>I'm Currently learning Flutter, C++, Web Development<br>
 
 
 ## 🌐 Socials:
