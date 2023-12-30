@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm Currently learning Flutter, C++, Web Development<br>
+<br>I'm Currently learning Flask and Machine Learning<br>
 
 
 ## 🌐 Socials:
